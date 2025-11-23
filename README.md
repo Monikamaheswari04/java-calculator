@@ -1,6 +1,6 @@
 # 🔢 Scientific Calculator (Java Swing)
 
-        A modern and fully functional **Scientific Calculator** built using **Java Swing**. This application supports basic arithmetic operations as well as advanced scientific functions including trigonometry, logarithms, square root, powers, percentages, inverse, constants (π, e), and more.
+ A modern and fully functional **Scientific Calculator** built using **Java Swing**. This application supports basic arithmetic operations as well as advanced scientific functions including trigonometry, logarithms, square root, powers, percentages, inverse, constants (π, e), and more.
 
 ------------------------------------------------------------------------
 
